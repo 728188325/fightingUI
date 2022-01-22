@@ -3,12 +3,12 @@
 
 #### 示例
 
-<card imgSrc="/a.jpg" :imgHeight="180" summary="爱你一万年"></card>
+<card imgSrc="/fightingUI/a.jpg" :imgHeight="180" summary="爱你一万年"></card>
 
 #### 代码
 
 ```html
-<card imgSrc="/a.jpg" :imgHeight="180" summary="爱你一万年"></card>
+<card imgSrc="/fightingUI/a.jpg" :imgHeight="180" summary="爱你一万年"></card>
 ```
 
 ### Attributes
